@@ -1,0 +1,5 @@
+DESTDIR = ./
+INCLUDEPATH += $(QTDIR)/library
+DEPENDPATH += $(QTDIR)/library
+TARGET = cloverpaint
+LIBS += -lqpe -lsl

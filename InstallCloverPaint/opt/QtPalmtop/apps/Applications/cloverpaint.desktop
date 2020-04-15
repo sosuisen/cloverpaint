@@ -1,0 +1,7 @@
+[Desktop Entry]
+Comment = A paint software for the Qtopia.
+Exec = cloverpaint
+Icon = clover6.png
+Name = CloverPaint
+Type = Application
+Display = 640x480/144dpi,480x640/144dpi
